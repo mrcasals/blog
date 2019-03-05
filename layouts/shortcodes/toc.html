@@ -1,2 +1,2 @@
 <h1>Here's what we're talking about:</h1>
-{{ replace .Page.TableOfContents `href="#` (printf `href="%s#` .Page.Permalink) | safeHTML }}
+{{ .Page.TableOfContents }}
