@@ -9,17 +9,19 @@ toc: true
 
 Y'all. This is my first post.
 
-## Section
+{{< toc >}}
+
+# Section
 My subsection is nice and it has notes [^1]. See how they work[^work]!
 
 [^1]: This is the first footnote.
 
 [^work]: They do work, indeed.
 
-### Subsection
+## Subsection
 Here it is.
 
-## Code blocks
+# Code blocks
 
 Here's one, using Prism:
 
