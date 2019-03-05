@@ -3,12 +3,11 @@ title: "Hello World"
 date: 2019-03-04T16:21:45+01:00
 draft: true
 series: "Learning how to Hugo"
+tags: ["markdown"]
 toc: true
 ---
 
 Y'all. This is my first post.
-
-{{.TableOfContents}}
 
 ## Section
 My subsection is nice and it has notes [^1]. See how they work[^work]!
