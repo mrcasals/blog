@@ -1,4 +1,4 @@
-baseurl = "https://www.example.com"
+baseurl = "https://mrcasals.netlify.com"
 title = "Calaix desastre"
 theme ="hugo-theme-basic"
 languageCode = "en-us"
