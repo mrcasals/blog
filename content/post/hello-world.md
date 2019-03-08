@@ -1,7 +1,6 @@
 ---
 title: "Hello World"
 date: 2019-03-04T16:21:45+01:00
-draft: true
 series: "Learning how to Hugo"
 tags: ["markdown"]
 toc: true
