@@ -20,7 +20,7 @@ title                    : "Calaix desastre"
 title_separator          : "-"
 subtitle                 :
 name                     : "Marc Riera"
-description              : "An amazing website."
+description              : "Personal website"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Marc Riera"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "M'hagués agradat ser astronauta."
   location         : "Barcelona"
   email            :
   links:
