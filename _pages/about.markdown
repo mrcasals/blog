@@ -4,4 +4,4 @@ title: En quant a
 permalink: /about/
 ---
 
-Hola.
+*Work in progress*.
