@@ -287,6 +287,11 @@ defaults:
   # _posts
   - scope:
       path: ""
+      type: pages
+    values:
+      author_profile: true
+  - scope:
+      path: ""
       type: posts
     values:
       permalink: /posts/:title
