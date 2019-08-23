@@ -278,6 +278,9 @@ compress_html:
   ignore:
     envs: development
 
+collections:
+  petit_princep_languages:
+  petit_princep_books:
 
 # Defaults
 defaults:

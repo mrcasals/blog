@@ -1,0 +1,24 @@
+---
+title: El petit príncep
+permalink: /petit-princep/
+layout: single
+toc: true
+toc_label: Idiomes
+---
+{% for language in site.petit_princep_languages %}
+{% assign books_count = site.petit_princep_books | where: 'language', language.title | size %}
+{% assign books = site.petit_princep_books | where: 'language', language.title %}
+
+<h2 id="{{ language.title | downcase | url_encode }}">
+  {{ language.title }}
+</h2>
+
+<p>Número de llibres: {{ books_count }}</p>
+
+<ul>
+  {% for book in books %}
+  <li>{{ book.title }} - ISBN: {{book.isbn}}</li>
+  {% endfor %}
+</ul>
+
+{% endfor %}
