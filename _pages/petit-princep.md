@@ -34,6 +34,7 @@ Número de llibres: {{ books_count }}
   {% for book in books %}
   <li>
     <a href="{{ book.url }}">{{ book.title }}</a>
+    {%if book.transliteration %} ({{book.transliteration }}){% endif %}
     {%if book.note_on_title %} {{book.note_on_title }}{% endif %}
   </li>
   {% endfor %}
