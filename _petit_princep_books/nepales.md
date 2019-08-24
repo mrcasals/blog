@@ -1,6 +1,6 @@
 ---
 title: सानो राजकुमार
 transliteration: Sānō rājakumāra
-notes_on_title:
+note_on_title:
 language: Nepalès
 ---

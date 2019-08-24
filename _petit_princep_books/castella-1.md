@@ -1,5 +1,5 @@
 ---
 title: El principito
-notes_on_title:
+note_on_title:
 language: Castellà
 ---

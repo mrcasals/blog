@@ -1,5 +1,5 @@
 ---
 title: Lo prinçonet
-notes_on_title:
+note_on_title:
 language: Occità (llemosí)
 ---

@@ -1,5 +1,5 @@
 ---
 title: Lo Princilhon
-notes_on_title:
+note_on_title:
 language: Occità (llenguadocià)
 ---

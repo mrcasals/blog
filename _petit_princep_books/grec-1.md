@@ -1,5 +1,5 @@
 ---
 title: Ο μικρός Πρίγκιπας
-notes_on_title:
+note_on_title:
 language: Grec
 ---

@@ -1,5 +1,5 @@
 ---
 title: Mały Książę
-notes_on_title:
+note_on_title:
 language: Polonès
 ---

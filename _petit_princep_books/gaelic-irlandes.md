@@ -1,5 +1,5 @@
 ---
 title: An Prionsa Beag
-notes_on_title:
+note_on_title:
 language: Gaèlic irlandès
 ---

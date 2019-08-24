@@ -1,5 +1,5 @@
 ---
 title: Quyllur llaqtayuq wawamanta
-notes_on_title:
+note_on_title:
 language: Quechua
 ---
