@@ -1,5 +1,6 @@
 ---
 title: Der Kleine Prinz
+note_on_title: (edició 1979, de segona mà)
 isbn: 9783792000024
 year: 1979
 language: Alemany
