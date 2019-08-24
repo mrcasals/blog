@@ -281,6 +281,7 @@ compress_html:
 collections:
   petit_princep_languages:
   petit_princep_books:
+    output: true
 
 # Defaults
 defaults:
@@ -289,6 +290,13 @@ defaults:
       path: ""
       type: pages
     values:
+      author_profile: true
+  - scope:
+      path: ""
+      type: petit_princep_books
+    values:
+      permalink: /petit-princep/:title
+      layout: petit_princep_book
       author_profile: true
   - scope:
       path: ""
