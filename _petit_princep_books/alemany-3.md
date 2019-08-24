@@ -6,9 +6,24 @@ year: 1979
 language: Alemany
 bought: Berlín, Alemanya
 brought_by: Pares
+gallery:
+  - image_path: assets/images/petit-princep/alemany-3/cover.jpeg
+    url: assets/images/petit-princep/alemany-3/cover.jpeg
+    alt: Portada del llibre
+    title: Portada del llibre
+  - image_path: assets/images/petit-princep/alemany-3/inside.jpeg
+    url: assets/images/petit-princep/alemany-3/inside.jpeg
+    alt: Fulls de l'interior
+    title: Fulls de l'interior
+  - image_path: assets/images/petit-princep/alemany-3/details.jpeg
+    url: assets/images/petit-princep/alemany-3/details.jpeg
+    alt: Detall del segon full
+    title: Detall del segon full
 ---
 
 Comprat a un mercat de segona mà a Berlín. Té dos papers a dins:
+
+{% include gallery caption="Fotografies del llibre, amb els fulls de dins" %}
 
 1. "Für meine Mama" ("Per a la meva mama"), escrit en vermell amb un llapis. Té una enganxina d'una estrella amb 6 punxes (punxegudes, no a l'estil de l'estrellad e David) i un dibuix d'un cor.
 
@@ -31,3 +46,5 @@ La traducció és:
 Assumint que els dos fulls es van col·locar al llibre al mateix moment, podríem pensar que algú anomenat Ricardo va regalar el llibre a la seva mare el 20 de desembre de 1979. Una data d'aniversari? Un regal de Nadal avançat? O potser no era la seva mare, sinó la seva parella, i havien sigut pares feia poc?
 
 Sigui com sigui, te'l cuidaré, Ricardo.
+
+*Gràcies a l'Emma, l'@Ardaleth i l'Axel per les traduccions!*
