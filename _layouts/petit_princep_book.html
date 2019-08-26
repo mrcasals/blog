@@ -2,39 +2,41 @@
 layout: single
 ---
 
-<dl>
-  <dt>Idioma</dt>
-  <dd><a href="/petit-princep/#{{page.language | downcase}}">{{page.language}}</a></dd>
+<small>
+  <dl>
+    <dt>Idioma</dt>
+    <dd><a href="/petit-princep/#{{page.language | downcase}}">{{page.language}}</a></dd>
 
-  {% if page.transliteration %}
-  <dt>Transliteració a l'alfabet llatí</dt>
-  <dd>{{page.transliteration}}</dd>
-  {% endif %}
+    {% if page.transliteration %}
+    <dt>Transliteració a l'alfabet llatí</dt>
+    <dd>{{page.transliteration}}</dd>
+    {% endif %}
 
-  {% if page.isbn %}
-  <dt>ISBN</dt>
-  <dd>{{page.isbn}}</dd>
-  {% endif %}
+    {% if page.isbn %}
+    <dt>ISBN</dt>
+    <dd>{{page.isbn}}</dd>
+    {% endif %}
 
-  {% if page.publisher %}
-  <dt>Editorial</dt>
-  <dd>{{page.publisher}}</dd>
-  {% endif %}
+    {% if page.publisher %}
+    <dt>Editorial</dt>
+    <dd>{{page.publisher}}</dd>
+    {% endif %}
 
-  {% if page.translator %}
-  <dt>Traducció</dt>
-  <dd>{{page.translator}}</dd>
-  {% endif %}
+    {% if page.translator %}
+    <dt>Traducció</dt>
+    <dd>{{page.translator}}</dd>
+    {% endif %}
 
-  {% if page.bought %}
-  <dt>Comprat a</dt>
-  <dd>{{page.bought}}</dd>
-  {% endif %}
+    {% if page.bought %}
+    <dt>Comprat a</dt>
+    <dd>{{page.bought}}</dd>
+    {% endif %}
 
-  {% if page.brought_by %}
-  <dt>Portat per</dt>
-  <dd>{{page.brought_by}}</dd>
-  {% endif %}
-</dl>
+    {% if page.brought_by %}
+    <dt>Portat per</dt>
+    <dd>{{page.brought_by}}</dd>
+    {% endif %}
+  </dl>
+</small>
 
 {{content}}
