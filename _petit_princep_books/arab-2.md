@@ -8,6 +8,7 @@ isbn: 99879954071885
 publisher: Edisoft
 bought: Fes, Marroc
 brought_by: Jo
+translator: Abdul Hamid Gharbawi
 ---
 
 Comprat el 2019 en un viatge amb amics, sense recordar que ja tenia la versió en àrab.
