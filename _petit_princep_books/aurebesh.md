@@ -6,8 +6,8 @@ isbn: 9783946190417
 translator: Nadine Sauer (traducció a l'anglès americà)
 year: 2017
 publisher: Tintenfass
-brought_by: Pares
-bought:
+brought_by: Mare
+bought: París, França
 ---
 
 Transcrit en alfabet aurebesh, basant-se en el text en versió americana. A la primera pàgina hi ha una taula de transcripcions de lletres, nombres i demés símbols tipogràfics.
