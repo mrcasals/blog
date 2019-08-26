@@ -1,6 +1,6 @@
 ---
 title: The Little Prince
-note_on_title: (escrit en alfabet aurebesh, de l'univers de La Guerra de les Galàxies)
+note_on_title: (escrit en alfabet aurebesh)
 language: Anglès (transcripció en alfabet Aurebesh)
 isbn: 9783946190417
 translator: Nadine Sauer (traducció a l'anglès americà)
