@@ -42,19 +42,21 @@
       {{language.writing_system}}
     </dd>
     {% endif %}
+
+    {% if books_count > 0 %}
+    <dt>
+      Llibres ({{ books_count }})
+    </dt>
+        {% for book in books %}
+        <dd>
+          <a href="{{ book.url }}">{{ book.title }}</a>
+          {%if book.transliteration %} ({{book.transliteration }}){% endif %}
+          {%if book.note_on_title %} {{book.note_on_title }}{% endif %}
+        </dd>
+        {% endfor %}
+      </ul>
+    {% endif %}
   </dl>
 </small>
 
 {{language.content}}
-
-<p>Número de llibres: {{ books_count }}</p>
-
-<ul>
-  {% for book in books %}
-  <li>
-    <a href="{{ book.url }}">{{ book.title }}</a>
-    {%if book.transliteration %} ({{book.transliteration }}){% endif %}
-    {%if book.note_on_title %} {{book.note_on_title }}{% endif %}
-  </li>
-  {% endfor %}
-</ul>
