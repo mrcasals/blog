@@ -25,4 +25,4 @@ Finalment, té un ordre específic de situar els adjectius: opinió, mida, aspec
 
 Però aquesta frase sona malament:
 
-> She was a Scottish, young, tall, black-haired, beautiful, whin woman.
+> She was a Scottish, young, tall, black-haired, beautiful, thin woman.
