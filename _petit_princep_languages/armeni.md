@@ -14,5 +14,5 @@ Fa servir un dels pocs alfabets de qui en sabem el creador: Mesrop Mashtots (Մ�
 L'armeni utilitza uns signes de puntuació que cal situar damunt i una mica a la dreta de la vocal a la que modifiquen el to:
 
 - [ ՜ ] El *yerkaratsman nshan*, semblant al pal de la *ñ*, es fa servir com a signe d'exclamació.
-- [ ՛ ] El *shesht*, que sembla un accent tancat, es fa servir pem a signe d'èmfasi. L'alfabet llatí no té un signe equivalent a aquest, però a Internet col·loquialment es fan servir els asteriscs: `això és *molt* divertit`.
+- [ ՛ ] El *shesht*, que sembla un accent tancat, es fa servir com a signe d'èmfasi. L'alfabet llatí no té un signe equivalent a aquest, però a Internet col·loquialment es fan servir els asteriscs: `això és *molt* divertit`.
 - [ ՞ ] El *hartsakan nshan* es fa servir com a signe d'interrogació.
