@@ -1,5 +1,5 @@
 main:
-  - title: "En quant a"
-    url: /about/
   - title: "El petit príncep"
     url: /petit-princep/
+  - title: "En quant a"
+    url: /about/
