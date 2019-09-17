@@ -11,7 +11,7 @@ Buscant curiositats del català se'm va acudir que potser la grafia *ny* era ún
 
 I la *ç*? Tampoc: el francès, el friülès o furlà, l'occità, el portuguès, el manx i el turc també l'utilitzen.
 
-El punt volat de la *l·l*, doncs? Tampoc: mentre que alguns sistemes d'escriptura el fan servir com a delimitador de paraules (com el japonès), d'altres com l'occità (sobretot la variant gascona) el fan servir per separar grafemes (*des·har* "deshar" comparat amb *deshar* "marxar"). 
+El punt volat de la *l·l*, doncs? Tampoc: mentre que alguns sistemes d'escriptura el fan servir com a delimitador de paraules (com el japonès), d'altres com l'occità (sobretot la variant gascona) el fan servir per separar grafemes (*des·har* "deshar" comparat amb *deshar* "marxar").
 
 Veient els pobres resultats que obtenia, se'm va acudir [preguntar a Twitter][twitter-catala], i algunes de les idees que van sortir són:
 
