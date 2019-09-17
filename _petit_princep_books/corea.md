@@ -9,3 +9,5 @@ brought_by: Txus
 isbn: 9791189660642
 translator: Mi-jung Kim
 ---
+
+El llibre número 50 de la col·lecció!
