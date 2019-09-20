@@ -11,3 +11,5 @@ translator: Mi-jung Kim
 ---
 
 El llibre número 50 de la col·lecció!
+
+La dedicatòria conté un peu de pàgina explicant qui era Léon Werth. Al final del llibre hi ha un comentari del text i una biografia de l'autor.
