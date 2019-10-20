@@ -7,6 +7,7 @@ publisher: Javier Merás
 translator: Roger Gonzalo Segura
 bought: Internet
 brought_by: Jo
+number: 51
 ---
 
 A la portada té la bandera aimara (un patró de colors en quadrats) amb forma de chacana, un símbol regional. A la contraportada té un mapa de la nació aimara, que ocupa Bolívia, el sude de Perú i el nord de Xile i d'Argentina.

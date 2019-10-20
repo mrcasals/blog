@@ -8,6 +8,7 @@ bought: Seül, Corea
 brought_by: Txus
 isbn: 9791189660642
 translator: Mi-jung Kim
+number: 50
 ---
 
 El llibre número 50 de la col·lecció!
