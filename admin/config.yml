@@ -12,6 +12,7 @@ collections:
       preview: false
     fields:
       - {label: "Títol", name: "title", widget: "string"}
+      - {label: "Publicat?", name: "published", widget: "boolean", default: false}
       - {label: "Data", name: "date", widget: "datetime"}
       - {label: "Categories", name: "categories", widget: "list"}
       - {label: "Etiquetes", name: "tags", widget: "list"}

@@ -1,5 +1,6 @@
 ---
 title: Mapes Conceptuals
+published: true
 date: 2019-08-23 17:37:11 +0200
 categories: 
   - Reflexions
