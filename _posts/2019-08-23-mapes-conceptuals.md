@@ -1,7 +1,8 @@
 ---
 title: Mapes Conceptuals
 date: 2019-08-23 17:37:11 +0200
-categories: reflexions
+categories: 
+  - Reflexions
 ---
 
 Fa uns dies a la feina em van demanar que documentés una secció d'un projecte. No entraré gaire en detalls, només diré que és la segona vegada que l'intento documentar, i que l'altra vegada havia quedat a mitges. Em vaig posar a escriure la documentació, i vaig pensar que estaria bé tenir una introducció al sistema per no espantar al personal.
