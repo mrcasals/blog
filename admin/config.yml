@@ -13,5 +13,5 @@ collections:
     fields:
       - {label: "Títol", name: "title", widget: "string"}
       - {label: "Data", name: "date", widget: "datetime"}
-      - {label: "Categories", name: "categories", widget: "list", allow_add: true}
+      - {label: "Categories", name: "categories", widget: "string"}
       - {label: "Cos", name: "body", widget: "markdown"}
