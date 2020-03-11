@@ -14,4 +14,5 @@ collections:
       - {label: "Títol", name: "title", widget: "string"}
       - {label: "Data", name: "date", widget: "datetime"}
       - {label: "Categories", name: "categories", widget: "list"}
+      - {label: "Etiquetes", name: "tags", widget: "list"}
       - {label: "Cos", name: "body", widget: "markdown"}
