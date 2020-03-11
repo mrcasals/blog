@@ -1,0 +1,12 @@
+collections:
+  name: "posts"
+  label: "Posts"
+  folder: "_posts"
+  create: true
+  slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+  editor:
+    preview: false
+  fields:
+    - {label: "Títol", name: "title", widget: "string"}
+    - {label: "Data", name: "date", widget: "datetime"}
+    - {label: "Categories", name: "categories", widget: "list", allow_add: true}
