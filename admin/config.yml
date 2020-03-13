@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
-media_folder: 'assets/images'
+media_folder: "assets/images"
 collections:
   - name: "posts"
     label: "Post"
@@ -11,9 +11,36 @@ collections:
     editor:
       preview: false
     fields:
-      - {label: "Títol", name: "title", widget: "string"}
-      - {label: "Publicat?", name: "published", widget: "boolean", default: false}
-      - {label: "Data", name: "date", widget: "datetime"}
-      - {label: "Categories", name: "categories", widget: "list"}
-      - {label: "Etiquetes", name: "tags", widget: "list"}
-      - {label: "Cos", name: "body", widget: "markdown"}
+      - { label: "Títol", name: "title", widget: "string" }
+      - {
+          label: "Publicat?",
+          name: "published",
+          widget: "boolean",
+          default: false,
+        }
+      - { label: "Data", name: "date", widget: "datetime" }
+      - { label: "Categories", name: "categories", widget: "list" }
+      - { label: "Etiquetes", name: "tags", widget: "list" }
+      - { label: "Cos", name: "body", widget: "markdown" }
+  - name: "languages"
+    label: "Idioma"
+    folder: "_petit_princep_languages"
+    create: true
+    slug: "{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - { label: "Nom en català", name: "title", widget: "string" }
+      - { label: "Parlants", name: "speakers", widget: "string" }
+      - { label: "Autònim", name: "autonym", widget: "string" }
+      - {
+          label: "Transcripció IPA",
+          name: "ipa_transcription",
+          widget: "string",
+        }
+      - { label: "Països", name: "countries", widget: "string" }
+      - {
+          label: "Sistema d'escriptura",
+          name: "writing_system",
+          widget: "string",
+        }
