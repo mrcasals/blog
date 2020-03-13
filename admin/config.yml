@@ -57,24 +57,61 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: "Títol", name: "title", widget: "string" }
+      - { label: "Títol", name: "title", widget: "string", required: false }
       - {
           label: "Transliteració a l'alfabet llatí",
           name: "transliteration",
           widget: "string",
+          required: false,
         }
       - {
           label: "Nota sobre el títol",
           name: "note_on_title",
           widget: "string",
+          required: false,
         }
-      - { label: "Slug", name: "slug", widget: "string" }
-      - { label: "Idioma", name: "language", widget: "string" }
-      - { label: "ISBN", name: "isbn", widget: "string" }
-      - { label: "Any d'edició", name: "year", widget: "string" }
-      - { label: "Editorial", name: "publisher", widget: "string" }
-      - { label: "Traductor", name: "translator", widget: "string" }
-      - { label: "Comprat a", name: "bought", widget: "string" }
-      - { label: "Portat per", name: "brought_by", widget: "string" }
-      - { label: "Número de la col·lecció", name: "number", widget: "string" }
-      - { label: "Descripció", name: "body", widget: "markdown" }
+      - { label: "Slug", name: "slug", widget: "string", required: false }
+      - { label: "Idioma", name: "language", widget: "string", required: false }
+      - { label: "ISBN", name: "isbn", widget: "string", required: false }
+      - {
+          label: "Any d'edició",
+          name: "year",
+          widget: "string",
+          required: false,
+        }
+      - {
+          label: "Editorial",
+          name: "publisher",
+          widget: "string",
+          required: false,
+        }
+      - {
+          label: "Traductor",
+          name: "translator",
+          widget: "string",
+          required: false,
+        }
+      - {
+          label: "Comprat a",
+          name: "bought",
+          widget: "string",
+          required: false,
+        }
+      - {
+          label: "Portat per",
+          name: "brought_by",
+          widget: "string",
+          required: false,
+        }
+      - {
+          label: "Número de la col·lecció",
+          name: "number",
+          widget: "string",
+          required: false,
+        }
+      - {
+          label: "Descripció",
+          name: "body",
+          widget: "markdown",
+          required: false,
+        }
