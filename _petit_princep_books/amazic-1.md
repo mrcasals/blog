@@ -1,7 +1,8 @@
 ---
-title: ⴰⴳⵍⴷⵓⵏ ⴰⵎⵥⵥⴰⵏ (Ageldun ameẓẓan)
-isbn: 9954-439-27-7
+title: ⴰⴳⵍⴷⵓⵏ ⴰⵎⵥⵥⴰⵏ
+transliteration: Ageldun ameẓẓan
 language: Amazic
+isbn: 9954-439-27-7
 year: 2005
 publisher: IRCAM (Institut Royal de la Culture Amazighe)
 translator: Lahbib Fouad
