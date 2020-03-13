@@ -2,6 +2,10 @@ backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
 media_folder: "assets/images"
+site_url: mrcasals.me
+slug:
+  encoding: "ascii"
+  clean_accents: true
 collections:
   - name: "posts"
     label: "Post"
@@ -23,7 +27,7 @@ collections:
       - { label: "Etiquetes", name: "tags", widget: "list" }
       - { label: "Cos", name: "body", widget: "markdown" }
   - name: "languages"
-    label: "Idioma"
+    label: "Petit Príncep - Idioma"
     folder: "_petit_princep_languages"
     create: true
     slug: "{{slug}}"
