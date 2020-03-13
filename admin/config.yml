@@ -48,3 +48,33 @@ collections:
           name: "writing_system",
           widget: "string",
         }
+
+  - name: "books"
+    label: "Petit Príncep - Llibre"
+    folder: "_petit_princep_books"
+    create: true
+    slug: "{{fleds.slug}}"
+    editor:
+      preview: false
+    fields:
+      - { label: "Títol", name: "title", widget: "string" }
+      - {
+          label: "Transliteració a l'alfabet llatí",
+          name: "transliteration",
+          widget: "string",
+        }
+      - {
+          label: "Nota sobre el títol",
+          name: "note_on_title",
+          widget: "string",
+        }
+      - { label: "Slug", name: "slug", widget: "string" }
+      - { label: "Idioma", name: "language", widget: "string" }
+      - { label: "ISBN", name: "isbn", widget: "string" }
+      - { label: "Any d'edició", name: "year", widget: "string" }
+      - { label: "Editorial", name: "publisher", widget: "string" }
+      - { label: "Traductor", name: "translator", widget: "string" }
+      - { label: "Comprat a", name: "bought", widget: "string" }
+      - { label: "Portat per", name: "brought_by", widget: "string" }
+      - { label: "Número de la col·lecció", name: "number", widget: "string" }
+      - { label: "Descripció", name: "body", widget: "markdown" }
