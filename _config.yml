@@ -313,13 +313,12 @@ defaults:
 jekyll_compose:
   default_front_matter:
     petit_princep_languages:
-      layout:
-      date:
       speakers:
       autonym:
-      ipa_transcription:
+      ipa_transcription: ""
       countries:
       writing_system:
+      layout:
     petit_princep_books:
       title:
       transliteration:
