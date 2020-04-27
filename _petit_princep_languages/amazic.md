@@ -1,6 +1,6 @@
 ---
 title: Amazic
-speakers: 
+speakers: ~5.000.000
 autonym: ⵜⴰⵎⴰⵣⵉⵖⵜ, Tamazight
 ipa_transcription: "[tæmæˈzɪɣt]"
 countries: Marroc, Algèria, Líbia, Tunísia, Mauritània, Mali, Níger i Egipte
@@ -9,9 +9,9 @@ writing_system: Tifinagh, Neo-Tifinagh
 
 L'amazic és un conjunt de parlars del nord d'Àfrica, de la família afroasiàtica i que inclou el desaparegut guanxe canari, l'idioma que es parlava a les Illes Canàries abans de la conquesta espanyola. Històricament s'ha escrit en tifinagh, un abjad que actualment només mantenen els tuaregs. Des de la dècada del 1960 es promou l'ús de l'alfabet neotifinagh, basat en el tifinagh original.
 
-El tifinagh prové de l'abjad líbicoberber, un abjad pur que es feia servir a tot el nord d'Àfrica i a les Illes Canàries i que molt probablement estaria basat en l'alfabet fenini. Els abjads són sistemes d'escriptura que només representen les consonants (abjads *purs*). Si l'abjad permet diacrítics per representar les vocals, llavors és un abjad *impur*. Els amazics utilitzen un dels símbols del (neo)tifinagh com a símbol identitari propi: la *yaz* ⵣ, que per a ells vol dir "home lliure". Si mai feu un viatge al Marroc, per la zona de l'Atlas la veureu escrita en portes, parets i banderes.
+El tifinagh prové de l'abjad líbicoberber, un abjad pur que es feia servir a tot el nord d'Àfrica i a les Illes Canàries i que molt probablement estaria basat en l'alfabet fenini. Els abjads són sistemes d'escriptura que només representen les consonants (abjads _purs_). Si l'abjad permet diacrítics per representar les vocals, llavors és un abjad _impur_. Els amazics utilitzen un dels símbols del (neo)tifinagh com a símbol identitari propi: la _yaz_ ⵣ, que per a ells vol dir "home lliure". Si mai feu un viatge al Marroc, per la zona de l'Atlas la veureu escrita en portes, parets i banderes.
 
-Algunes vegades es refereix a l'amazic amb el malnom de *berber* o *bereber*. Aquesta paraula prové del llatí *barbari* "bàrbar", ja que fa uns segles a la costa nord d'Àfrica se l'anomenava Barbària, del grec *barbaria* "terra de bàrbars". Per això ells preferefixen que s'utilitzi *amazigh* (adaptat al català com a "amazic") per referir-se a ells. "Amazigh" és el plural de *imazighen*, que es tradueix com a "home lliure", "noble" o "defensor".
+Algunes vegades es refereix a l'amazic amb el malnom de _berber_ o _bereber_. Aquesta paraula prové del llatí _barbari_ "bàrbar", ja que fa uns segles a la costa nord d'Àfrica se l'anomenava Barbària, del grec _barbaria_ "terra de bàrbars". Per això ells preferefixen que s'utilitzi _amazigh_ (adaptat al català com a "amazic") per referir-se a ells. "Amazigh" és el plural de _imazighen_, que es tradueix com a "home lliure", "noble" o "defensor".
 
 Pel què fa a l'idioma, sembla que prové d'un proto-berber/proto-amazic, però com que totes les llengües de la família són molt similars, implica que la separació és força recent. En contrast, el proto-berber/proto-amazic és molt diferent de la resta de proto-idiomes de la família afroasiàtica, cosa que indica que la separació va ser força d'hora.
 
