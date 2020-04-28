@@ -1,0 +1,62 @@
+---
+layout: single
+---
+
+{% assign books_count = site.petit_princep_books | where: 'language', page.title | size %}
+{% assign books = site.petit_princep_books | where: 'language', page.title %}
+
+<small>
+  <dl>
+    {% if page.autonym %}
+    <dt>
+      Autònim
+    </dt>
+    <dd>
+      {{page.autonym}} (AFI: {{page.ipa_transcription}})
+    </dd>
+    {% endif %}
+
+    {% if page.countries %}
+    <dt>
+      Països on es parla
+    </dt>
+    <dd>
+      {{page.countries}}
+    </dd>
+    {% endif %}
+
+    {% if page.speakers %}
+    <dt>
+      Parlants natius
+    </dt>
+    <dd>
+      {{page.speakers}}
+    </dd>
+    {% endif %}
+
+    {% if page.writing_system %}
+    <dt>
+      Sistema d'escriptura
+    </dt>
+    <dd>
+      {{page.writing_system}}
+    </dd>
+    {% endif %}
+
+    {% if books_count > 0 %}
+    <dt>
+      Llibres ({{ books_count }})
+    </dt>
+    {% for book in books %}
+    <dd>
+      <a href="{{ book.url }}">{{ book.title }}</a>
+      {%if book.transliteration %} ({{book.transliteration }}){% endif %}
+      {%if book.note_on_title %} {{book.note_on_title }}{% endif %}
+    </dd>
+    {% endfor %}
+    </ul>
+    {% endif %}
+  </dl>
+</small>
+
+{{content}}

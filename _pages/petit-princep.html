@@ -2,8 +2,6 @@
 title: El petit príncep
 permalink: /petit-princep/
 layout: single
-toc: true
-toc_label: Idiomes
 ---
 
 <p>
@@ -31,8 +29,25 @@ toc_label: Idiomes
   <dd>{{ languages_count }}</dd>
 </dl>
 
-{% for language in site.petit_princep_languages %}
+<h2 id="llistat-idiomes">Idiomes de la col·lecció</h2>
 
-{% include petit_princep_language.html language=language %}
+<ul>
+  {% for language in site.petit_princep_languages %}
+  <li>
+    <a id="{{language.title | downcase}}" href="{{ language.url }}">{{ language.title }}</a>
+    {% assign books = site.petit_princep_books | where: 'language', language.title %}
 
-{% endfor %}
+    <ul>
+      {% for book in books %}
+      <li>
+        <small>
+          <a href="{{ book.url }}">{{ book.title }}</a>
+          {%if book.transliteration %} ({{book.transliteration }}){% endif %}
+          {%if book.note_on_title %} {{book.note_on_title }}{% endif %}
+        </small>
+      </li>
+      {% endfor %}
+    </ul>
+  </li>
+  {% endfor %}
+</ul>

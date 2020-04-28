@@ -280,6 +280,7 @@ compress_html:
 
 collections:
   petit_princep_languages:
+    output: true
   petit_princep_books:
     output: true
 
@@ -295,8 +296,15 @@ defaults:
       path: ""
       type: petit_princep_books
     values:
-      permalink: /petit-princep/:title
+      permalink: /petit-princep/llibre/:title
       layout: petit_princep_book
+      author_profile: true
+  - scope:
+      path: ""
+      type: petit_princep_languages
+    values:
+      permalink: /petit-princep/idioma/:title
+      layout: petit_princep_language
       author_profile: true
   - scope:
       path: ""
