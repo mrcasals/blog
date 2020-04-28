@@ -1,0 +1,16 @@
+#!/usr/bin/env ruby
+require "pathname"
+require "fileutils"
+
+include FileUtils
+
+APP_ROOT = Pathname.new File.expand_path('../../', __FILE__)
+
+def system!(*args)
+  system(*args) || abort("\n== Command #{args} failed ==")
+end
+
+chdir APP_ROOT do
+  book_title = ARGV.join(" ")
+  system!("bundle exec jekyll compose #{book_title} --collection petit_princep_books -f")
+end

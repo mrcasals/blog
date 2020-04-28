@@ -7,7 +7,7 @@ countries: Geòrgia
 writing_system: Alfabet georgià
 ---
 
-El georgià és un idioma de la família de llengües katvelianes, una de les famílies base (al mateix nivell de la família indo-europea). Així doncs, el georgià no és una llengua indo-europea. Comparteix família juntament amb el zan (amb dialectes mingrelià i laz) i el svanetià, parlats tots ells principalment a Geòrgia. Tots utilitzen l'alfabet georgià, tot i que el laz i el svanetià hi han afegit lletres especials. Juntament amb l'alfabet armeni, l'alfabet georgià sembla ser creat per  Mesrop Mashtots, tot i que hi ha gent que ho posa en dubte.
+El georgià és un idioma de la família de llengües katvelianes, una de les famílies base (al mateix nivell de la família indo-europea). Així doncs, el georgià no és una llengua indo-europea. Comparteix família juntament amb el zan (amb dialectes mingrelià i laz) i el svanetià, parlats tots ells principalment a Geòrgia. Tots utilitzen l'alfabet georgià, tot i que el laz i el svanetià hi han afegit lletres especials. Juntament amb l'alfabet armeni, l'alfabet georgià sembla ser creat per  Mesrop Mashtots, tot i que hi ha gent que ho posa en dubte. Originàriament, l'alfabet era bicameral (com el llatí, distingia majúscules i minúscules), però amb el temps una de les versions es va perdre.
 
 És un idioma aglutinant: s'afegeixen prefixos i sufixos al verb per tal de construir-lo. Per exemple, la paraula *ageshenebinat* es tradueix per "ho hauríeu d'haver construït". Té set casos nominals, i no té gènere gramatical: fins i tot els pronoms personals tenen un gènere neutral. Tampoc té articles.
 
