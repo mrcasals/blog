@@ -18,5 +18,7 @@ Com a gramàtica, em sorprèn que els adjectius van davant del nom, però els po
 - το μεγάλο σπίτι, [to meˈɣalo ˈspiti], 'la casa gran'
 - το σπίτι του Νίκου 'la casa d'en Nicolau'
 
+Una variant antiga del grec se segueix parlant al sud d'Itàlia, sota el nom de greco, i sembla que seria descendent directe del grec que es parlava a la Magna Grècia.
+
 [matres-lectionis]: https://www.wikiwand.com/en/Mater_lectionis
 [history-greek-alphabet]: https://www.wikiwand.com/en/History_of_the_Greek_alphabet
