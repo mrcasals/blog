@@ -8,4 +8,4 @@ publisher: Gallimard
 year: 1997
 ---
 
-Edició per a una col·lecció juvenil. Tee una sèrie d'exercicis de comprensió lectora al final del llibre.
+Edició per a una col·lecció juvenil. Té una sèrie d'exercicis de comprensió lectora al final del llibre.

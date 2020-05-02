@@ -11,7 +11,7 @@ writing_system: Kanji, hiragana, katakana
 
 Al moment d'escriure això, fa aproximadament un any que vaig començar a estudiar japonès. És una llengua curiosa: gramaticalment és força senzilla, però a l'hora d'escriure és un drama.
 
-Comencem per la gramàtica: el que més em va sorprendre és que tee un ordre SOV (Subjecte-Objecte-Verb), amb els complements davant del nom. Això fa que al principi t'hagis d'esforçar a recordar l'ordre, però amb una mica de pràctica t'hi acostumes ràpid. Els verbs són invariables en persona i nombre, i s'utilitza la mateixa forma verbal per expressar present i futur.
+Comencem per la gramàtica: el que més em va sorprendre és que té un ordre SOV (Subjecte-Objecte-Verb), amb els complements davant del nom. Això fa que al principi t'hagis d'esforçar a recordar l'ordre, però amb una mica de pràctica t'hi acostumes ràpid. Els verbs són invariables en persona i nombre, i s'utilitza la mateixa forma verbal per expressar present i futur.
 
 Una altra cosa una mica rara al principi és l'ús de partícules per especificar la funció de certs sintagmes dins d'una oració. Amb un exemple:
 
@@ -40,11 +40,11 @@ Passat negatiu | El cotxe no era vermell | Kuruma wa akakunakatta desu
 
 L'escriptura, però, és un món absolutament diferent. Originàriament, el japonès no tenia sistema d'escriptura. Llavors van aparèixer els xinesos i van dir: "ei, feu servir el nostre sistema, que mola molt!", i els japonesos van dir "ah clar, clar, i tant! En direm *kanji*!" i d'aquí van sortir un malson per a l'estudiant de japonès.
 
-El problema ve de com fucniona el sistema xinès: cada símbol representa una idea. Ara imagina la situació: vénen els xinesos i diuen "mira, aquest símbol 山 és una muntanya i es diu *san*". I els japonesos s'apunten el símbol (recordant l'ordre dels traços, que és important) idiuen: "això es llegeix *san*, d'acord. Però *muntanya* en japonès es diu *yama*". Així, aquest símbol es pot llegir *san* o *yama* depenent de la paraula en què es trobi. I així amb cada kanji. I normalment no pots saber quina versió has de fer servir.
+El problema ve de com funciona el sistema xinès: cada símbol representa una idea. Ara imagina la situació: vénen els xinesos i diuen "mira, aquest símbol 山 és una muntanya i es diu *san*". I els japonesos s'apunten el símbol (recordant l'ordre dels traços, que és important) idiuen: "això es llegeix *san*, d'acord. Però *muntanya* en japonès es diu *yama*". Així, aquest símbol es pot llegir *san* o *yama* depenent de la paraula en què es trobi. I així amb cada kanji. I normalment no pots saber quina versió has de fer servir.
 
 Complicat, oi? Espera, que encara hi ha més. En algun punt, un grup de dones van tenir el bon criteri de dir "mira, això dels kanjis és molt complicat i no té cap mena de sentit que un sol kanji tingui tantes lectures diferents, simplifiquem-ho!". I van agafar els kanjis que elles trobaben més comuns i els van fer servir de manera fonètica, en lloc de fer servir la lectura simbòlica. Això, amb el temps, acabaria donant un sil·labari, el hiragana. El problema és que un grup de monjos budistes va tenir la mateixa idea, exacta. Però van agafar un altre conjunt de kanjis per fer el sil·labari katakana.
 
-Suposo que no es van posar d'acord, perquè quan estudies japonès t'has d'aprendre els dos sil·labaris i els kanjis. I cadascun tee els seus usos, així que no són intercanviables. Em sap greu.
+Suposo que no es van posar d'acord, perquè quan estudies japonès t'has d'aprendre els dos sil·labaris i els kanjis. I cadascun té els seus usos, així que no són intercanviables. Em sap greu.
 
 T'aviso per si t'ho estàs pensant.
 
