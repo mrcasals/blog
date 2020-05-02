@@ -5,7 +5,7 @@ date: 2020-05-01 20:22 +0200
 speakers: 67 milions
 autonym: Italiano
 ipa_transcription: '[itaˈljaːno]'
-countries: Itàlia, Suïssa, Ciutat del Vaticà, San Marino Minoritàriament a Eslovènia i Croàcia
+countries: Itàlia, Suïssa, Ciutat del Vaticà, San Marino. Minoritàriament a Eslovènia i Croàcia
 writing_system: Alfabet llatí modificat
 ---
 
