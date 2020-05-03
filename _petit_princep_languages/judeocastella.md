@@ -18,7 +18,7 @@ Fonèticament, doncs, encara conserva trets del castellà antic:
 
 Per la part de morfologia també té algunes diferències:
 
-- En algunes paraules (tant manlleus com p  ®opies), pot utilitzar les formes del plural hebreu /-im/ (masculí) i /-ot/ (femení): *hermano/hermanos* és *ermano/ermanim* o *ermanos*; *ladrón/ladrones* és *ladron/ladronim*; o en femení *quehilá/keilá* (sinagoga)és *quehilás/quehilot*
+- En algunes paraules (tant manlleus com pròpies), pot utilitzar les formes del plural hebreu /-im/ (masculí) i /-ot/ (femení): *hermano/hermanos* és *ermano/ermanim* o *ermanos*; *ladrón/ladrones* és *ladron/ladronim*; o en femení *quehilá/keilá* (sinagoga)és *quehilás/quehilot*
 - Conté més variablilitat segons el gènere: en agjectius, com *grande/-a* o *inferior/-a*, en noms com *vozas* o *fuentas* i en l'iterrogatiu *qualo/quala*.
 
 Sembla també que converteix les terminacions *-eis* en *-ex* (pronunciat amb /ʃ/): *seis* és *sex*, formes verbals com *coméis* o *comísteis* són *comex* o *comítex*
