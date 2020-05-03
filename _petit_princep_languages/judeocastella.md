@@ -14,7 +14,7 @@ El judeocastellà, a vegades també anomenat sefardí o ladino (tot i que hi ha 
 Fonèticament, doncs, encara conserva trets del castellà antic:
 
 - La lletra *j* del castellà modern es correspon a dons sons diferents: *x*, pronunciat /ʃ/, i *j*, pronunciat /ʒ/ (un so que s'ha perdut al castellà modern). Una *g* davant d'*e* o d'*i* es manté com a [d͡ʒ] o /ʒ/, en lloc de [x] com al castellà modern. Per exemple, *baxo* (en castellà modern *bajo*) es pronuncia amb /ʃ/, o *mujer* amb /ʒ/.
-- La lletra *z* (o *c* davant d'*e* o d'*i*), pronucniada [s] or [θ] segons el dialecte, es correspon a dos fonemes: *ç* (o *c* davant d'*e* o d'*i*), i *z* (en qualsevol posició). En judeocastellà es pronuncien [s] i [z], respectivament.
+- La lletra *z* (o *c* davant d'*e* o d'*i*), pronunciada [s] or [θ] segons el dialecte, es correspon a dos fonemes: *ç* (o *c* davant d'*e* o d'*i*), i *z* (en qualsevol posició). En judeocastellà es pronuncien [s] i [z], respectivament.
 
 Per la part de morfologia també té algunes diferències:
 
