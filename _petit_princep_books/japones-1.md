@@ -10,7 +10,7 @@ year: 2006
 publisher: Shinchosa
 translator: Mariko Kono
 bought: Japó (Tòquio)
-brought_by: jo
+brought_by: Jo
 number:
 ---
 
