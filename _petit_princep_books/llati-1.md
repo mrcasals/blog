@@ -4,7 +4,7 @@ title: Regulus
 date: 2020-05-05 19:06 +0200
 transliteration:
 note_on_title:
-language: Latí
+language: Llatí
 isbn: 9780156014045
 year: 2001
 publisher: Harvest
