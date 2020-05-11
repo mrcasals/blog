@@ -22,5 +22,7 @@ poma / pipa /vaixell | appel / pijp / schip | apple / pipe / ship | Apfel / Pfei
 pensar / germà / espina | denken / broeder / doorn | think / brother / thorn | denken / Druder / Dorn | El neerlandès, com l'alemany, ha canviat la þ germànica (mantinguda per l'anglès) per una d.
 ahir / fil / dia | gisteren / garen / dag | yesterday / yarn / day | gestern / Garn / Tag | El neerlandès ha canviat la g germànica per un so africat x; mentre que l'anglès l'ha canviada encara més: g→y (llei nasal ingaveònica)
 
+Com a curiositats, el neerlandès fa servir el dígraf _ij_ com a una sola lletra, i té una proporció relativament alta de lletres dobles, com a la paraula _voorraaddoos_ (recipient per desar de menjar).
+
 [smc]: https://www.wikiwand.com/ca/Segona_mutaci%C3%B3_conson%C3%A0ntica
 
