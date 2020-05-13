@@ -6,7 +6,7 @@ transliteration:
 note_on_title:
 language: Gallec
 isbn: 9788498650341
-year:
+year: 2017
 publisher: Editorial Galaxia
 translator: Carlos Casares
 bought: Internet
