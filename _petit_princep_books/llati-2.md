@@ -8,7 +8,7 @@ language: Llatí
 isbn: 9783150192740
 year: 2015
 publisher: RECLAM
-translator: Franz Schlosser (llatí) i Unlrich Bossier (alemany)
+translator: Franz Schlosser (llatí) i Ulrich Bossier (alemany)
 bought: Internet
 brought_by: Jo
 number: 56
