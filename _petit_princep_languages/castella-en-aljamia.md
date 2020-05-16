@@ -15,5 +15,5 @@ A Castella i Aragó, el rei Felip II va prohibir l'ús de l'àrab el 1567. Els m
 
 Fa un temps vaig trobar per internet la pàgina web de [Verda Krajono][verda-krajono] (Fernando Tejón), on té una proposta de com actualitzar l'aljamia per al castellà actual.
 
-[verda-krajono]: https://sites.google.com/site/verdakrajono/ortografia-reformada
+[verda-krajono]: https://sites.google.com/site/verdakrajono/aljamia
 
