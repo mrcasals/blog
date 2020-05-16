@@ -4,7 +4,7 @@ title: اًل بّرِنثِبِّتۡ
 date: 2020-05-16 18:08 +0200
 transliteration: el prinzipito
 note_on_title:
-language: Casttellà en aljamia
+language: Castellà en aljamia
 isbn: (no publicat)
 year: 2019
 publisher: Editorial Krajono
