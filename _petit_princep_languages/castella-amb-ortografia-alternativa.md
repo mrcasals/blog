@@ -9,7 +9,7 @@ countries: Espanya
 writing_system: Alfabet llatí
 ---
 
-Fa un temps vaig trobar per internet la pàgina web de [Verda Krajono][verda-krajono] (Fernando Tejón), on té una proposta d'ortografia reformada per al castellà. El teitol en castellà estàndard i en l'ortografia reformada és el següent:
+Fa un temps vaig trobar per internet la pàgina web de [Verda Krajono][verda-krajono] (Fernando Tejón), on té una proposta d'ortografia reformada per al castellà. El títol en castellà estàndard i en l'ortografia reformada és el següent:
 
 > Nueva ortografía fonética del castellano o español para la variedad del centro y norte de España
 
