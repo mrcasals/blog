@@ -43,5 +43,6 @@ ca:
   loading_label              : "Carregant..."
   search_label_text          : "Introdueix termes per cercar..."
   search_placeholder_text    : "Introdueix termes per cercar..."
+  search_algolia_no_results  : "No hi ha resultats"
   results_found              : "resultat(s)"
   back_to_top                : "Torna a dalt"
