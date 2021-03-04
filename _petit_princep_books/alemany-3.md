@@ -31,18 +31,14 @@ Comprat a un mercat de segona mà a Berlín. Té dos papers a dins:
 
 1. Un full amb un dibuix d'una planta amb 5 cors en lloc de flors. Té uns números: "20 12 79" que suggereixen una data: 20 de desembre de 1979, l'any de publicació d'aquesta edició del llibre. Hi ha una firma, "Ricardo" en majúscules. Té unes línies escrites, també:
 
-> Für Erinnerungen
->
-> Für Träume
->
+> Für Erinnerungen<br />
+> Für Träume<br />
 > Für...
 
 La traducció és:
 
-> Pels records
->
-> Pels somnis
->
+> Pels records<br />
+> Pels somnis<br />
 > Per...
 
 Assumint que els dos fulls es van col·locar al llibre al mateix moment, podríem pensar que algú anomenat Ricardo va regalar el llibre a la seva mare el 20 de desembre de 1979. Una data d'aniversari? Un regal de Nadal avançat? O potser no era la seva mare, sinó la seva parella, i havien sigut pares feia poc?
